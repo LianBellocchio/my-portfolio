@@ -16,7 +16,7 @@ export const projects = {
   python: [
     {
       title: 'XPlicit Automation Bot Suite',
-      description: 'Professional experience developing a suite of Python bots for XPlicit, including a text-to-speech AI bot for team communication, to automate tasks, manage workflows, and calculate custom metrics. This project is under an NDA and cannot be publicly shared.',
+      description: 'Professional experience developing a suite of Python bots for XPlicit, including a text-to-speech AI bot for sales team. Automate tasks, manage workflows, and calculate custom metrics. This project is under an NDA and cannot be publicly shared.',
       tech: [<FaPython key="py" />],
       // No link due to NDA
     },

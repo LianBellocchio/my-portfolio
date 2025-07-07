@@ -11,7 +11,7 @@ export const en = {
   },
   lab: {
     title: "The Lab",
-    aboutMe: "Hi, I'm Giuliano, a backend-focused full-stack developer from Argentina. My journey in tech began with building my own business's online platform from the ground up. Today, with over two years of experience, I specialize in crafting scalable APIs and robust systems using <b>Python</b>, <b>PHP</b>, <b>TypeScript</b>, and <b>PostgreSQL</b>. I'm also proficient in building dynamic frontends with <b>React</b> and <b>JavaScript</b>, and I use tools like <b>Docker</b>, <b>Git</b>, and <b>Cloud & DevOps</b> daily. For me, great software is about solving real problems through collaborative work and continuous learning.",
+    aboutMe: '<strong>Backend-focused Full-Stack Developer</strong> with a proven track record of <strong>leading development projects</strong> and <strong>collaborating with cross-functional teams</strong>. I specialize in <strong>designing and deploying scalable APIs and backend services</strong>, <strong>optimizing database performance</strong>, and am <strong>passionate about Docker, DevOps, and cloud application deployment</strong>. I leverage my skills in <strong>Python and PHP</strong> to build robust software solutions and drive project success.',
     emptyState: "Projects coming soon for this technology.",
     viewProject: "View Project",
   },
