@@ -28,7 +28,7 @@ export const projects = {
     },
     {
       title: 'FRAGSTATS.GG - Full-Stack Platform (Original)',
-      description: 'Full-stack platform for real-time Counter-Strike statistics. Features a Python backend for data processing and a JavaScript (Vanilla) frontend for dynamic visualization.',
+      description: 'Full-stack platform for real-time Counter-Strike statistics. Features a Python backend for data processing and a JavaScript (Vue.js) frontend for dynamic visualization.',
       tech: [<FaPython key="py" />, <SiFlask key="fl" />, <FaJs key="js" />],
       link: 'https://github.com/LianBellocchio/FRAGSTATS.GG',
     },
