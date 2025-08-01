@@ -22,4 +22,25 @@ export const es = {
     subject: "Oportunidad de Trabajo - Portfolio",
     body: "Hola Giuliano,\n\nMe interesa tu perfil y me gustaría conversar contigo sobre una oportunidad de trabajo.\n\nSaludos,",
   },
+  projects: {
+    python: {
+      xplicit: "Experiencia profesional desarrollando una suite de bots de Python para XPlicit, incluyendo un bot de IA de texto a voz para el equipo de ventas. Automatiza tareas, gestiona flujos de trabajo y calcula métricas personalizadas. Este proyecto está bajo un acuerdo de confidencialidad (NDA) y no puede ser compartido públicamente.",
+      automationBot: "Un bot desarrollado con OpenCV para OCR y Yoga para detección avanzada de imágenes. Este proyecto está bajo un acuerdo de confidencialidad (NDA) y no puede ser compartido públicamente.",
+      kinkyland: "Un bot de Python bien estructurado para la gestión de comunidades, con manejadores modulares para comandos y eventos. De código abierto y disponible en GitHub.",
+      fragstats: "Plataforma full-stack para estadísticas de Counter-Strike en tiempo real. Cuenta con un backend en Python para el procesamiento de datos y un frontend en JavaScript (Vue.js) para la visualización dinámica.",
+    },
+    php: {
+      school: "Lideré el desarrollo del sitio web oficial de la escuela, implementando diseños responsivos e integraciones de backend con PHP y PostgreSQL.",
+      ecommerce: "Una API RESTful para una plataforma de comercio electrónico, que gestiona productos, usuarios y pedidos. Construida con PHP.",
+    },
+    react: {
+      fragstats: "Reimaginando el frontend de FragStats.GG usando React y el moderno Tailwind CSS para una experiencia de usuario más limpia, de mayor rendimiento y responsiva.",
+    },
+    cloud: {
+      xplicit: "Gestioné el despliegue y la operación continua de la suite de bots de XPlicit en instancias de AWS EC2, asegurando alta disponibilidad y escalabilidad para tareas de automatización críticas.",
+    },
+    git: {
+      collaborative: "Utilicé Git para el control de versiones en todos mis proyectos, gestionando ramas, pull requests y fusiones en entornos de equipo.",
+    }
+  }
 };

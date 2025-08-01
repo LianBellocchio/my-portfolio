@@ -14,7 +14,7 @@ const ProjectCard = ({ proj, activeColor, t }) => (
     style={{ '--glow-color': activeColor }}
   >
     <h4 className="text-xl font-bold text-white mb-2">{proj.title}</h4>
-    <p className="text-gray-400 text-sm mb-4 leading-relaxed font-light flex-grow">{proj.description}</p>
+    <p className="text-gray-400 text-sm mb-4 leading-relaxed font-light flex-grow">{t(proj.description)}</p>
     <div className="flex gap-4 mb-4 text-2xl" style={{ color: activeColor }}>
       {proj.tech.map((icon, i) => <span key={i}>{icon}</span>)}
     </div>
